@@ -3,6 +3,7 @@
 ## Table of Contents
 *[Description](#description)
 *[Usage](#usage)
+*[Technologies](#technologies)
 *[Preview](#preview)
 *[URL](#url)
 
@@ -18,6 +19,12 @@ The personal portfolio is intended to display the projects and assignments that 
 - In the upper navigation bar, clicking on the various tabs will make the page scroll down to the associated location.
 - Clicking on the various projects will take the user to my GitHub page. 
 - Hovering the mouse over each of the applications will change the color of the background shadow. 
+
+#
+  <a name='Technologies'></a>
+
+### Technologies  
+HTML | CSS | Javascript | MVC Paradigm | Server-side API | MySQL | Node.js
 
 #
 <a name='preview'></a>
