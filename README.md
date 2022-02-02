@@ -1,18 +1,32 @@
-# Christian Jimenez - Homework Assignment 2
+# Personal Portfolio
 
-## Personal Portfolio
+## Table of Contents
+*[Description](#description)
+*[Usage](#usage)
+*[Preview](#preview)
+*[URL](#url)
+
+<a name='description'></a>
 
 ### Description
-This homework assignment is intended to get the bootcamp students to begin building their personal portfolio which will eventaully be presented to future employers. 
+The personal portfolio is intended to display the projects and assignments that I have been working on throughout the boot camp. The portfolio also includes different ways to contact me, a link to my resume, my GitHub and my Linked In page. This personal portfolio will eventaully be presented to future employers. 
 
 #
+  <a name='usage'></a>
 
-### How To Use
+### Usage
 - In the upper navigation bar, clicking on the various tabs will make the page scroll down to the associated location.
 - Clicking on the various projects will take the user to my GitHub page. 
 - Hovering the mouse over each of the applications will change the color of the background shadow. 
 
-<img width="1440" alt="Screen Shot 2021-12-23 at 8 44 01 PM" src="https://user-images.githubusercontent.com/92955084/147313697-fb113734-5298-4c99-bd8c-6d24c5517bab.png">
+#
+<a name='preview'></a>
+
+### Preview
+<img width="1240" alt="Screen Shot 2022-02-01 at 8 27 34 PM" src="https://user-images.githubusercontent.com/92955084/152088730-a7c15713-c272-430e-b8c9-92f6c291590b.png">
+
+#
+<a name='url'></a>
 
 ## URL
 #
